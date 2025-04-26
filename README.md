@@ -1,4 +1,5 @@
 Overview
+
 This project simulates the future of work in an AI-driven economy using an agent-based model (ABM) built with the Mesa framework in Python. The simulation explores how workers, corporations, and governments interact under varying conditions of automation, policy interventions, and worker adaptability.
 The goal of this simulation is to understand how different strategies — such as reskilling subsidies, regulation of automation, and corporate strategy shifts — impact employment levels, worker well-being, and corporate competitiveness.
 
