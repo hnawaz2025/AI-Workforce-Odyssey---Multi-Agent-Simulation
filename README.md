@@ -4,7 +4,9 @@ This project simulates the future of work in an AI-driven economy using an agent
 The goal of this simulation is to understand how different strategies — such as reskilling subsidies, regulation of automation, and corporate strategy shifts — impact employment levels, worker well-being, and corporate competitiveness.
 
 Project Structure
+
 File	Description
+
 agent.py	Defines the WorkerAgent, CorporationAgent, and GovernmentAgent classes and their behaviors.
 model.py	Defines the AIWFModel, which initializes agents, controls the environment, and tracks system-wide metrics like unemployment.
 run.py	Runs the simulation for a set number of steps and outputs a plot of unemployment rate over time.
@@ -12,6 +14,7 @@ requirements.txt	List of Python packages needed to run the simulation (mainly Me
 AI_Workforce_Odyssey_Policy_Game.pdf	Full analysis report describing the simulation setup, scenarios, results, and conclusions.
 
 How to Run the Simulation
+
 Clone the Repository or download the project files.
 Install required libraries (if not already installed):
 bash
